@@ -1,0 +1,115 @@
+Anti-Free Product License Software v1 (AFPL.S1)             
+
+
+Copyright 2023, Wesley Jones                                
+
+
+All rights reserved.                                        
+
+
+Permission is hereby granted to any party obtaining a copy  
+of this Software and or associated files or data (the       
+"Software") to use the Software, subject to the following   
+conditions:                                                 
+                                                            
+1. The copyright holder reserves the right to amend this    
+license at any time, and such amendments shall be effective 
+immediately upon posting on the copyright holder's website. 
+                                                            
+2. The copyright holder may grant extra privileges to a     
+party in writing and with a digital signature. Such         
+privileges shall be in addition to, and not in place of, the
+permissions granted under this license.                     
+                                                            
+3. The copyright holder reserves the right to revoke any and
+all permission granted under this license, WITH OR WITHOUT  
+CAUSE, to any party. Any such revocation shall be effective 
+immediately upon notice to the affected parties.            
+                                                            
+4. The copyright holder retains EXCLUSIVE CONTROL over the  
+Software and all works derived from it, including the source
+code, and may use, modify, and distribute the Software and  
+such works as they see fit.                                 
+                                                            
+5. No party is allowed to hack the Software without the     
+prior written permission of the copyright holder. Hacking   
+includes but is not limited to reverse engineering, FUZZING,
+unnecessary unauthorized testing, and exploitation. Any     
+party found to be in violation of this provision shall be   
+subject to immediate revocation of any and all permission   
+granted under this license, as well as any other legal      
+action available to the copyright holder. This provision    
+shall be in full force and effect for the duration of this  
+license agreement.                                          
+                                                            
+6. This license does not grant any rights to any patents,   
+trademarks, or other intellectual property rights associated
+with the Software or any works derived from it.             
+                                                            
+7. If any third party sublicenses any component, source     
+code, or other protected work, of the Software in a manner  
+that would cause the Copyright Holder to lose control over  
+the Software, such sublicense shall be void and of no force 
+or effect, and the Copyright Holder shall retain ALL RIGHTS 
+TO THE SOFTWARE. For example, if any party licenses the     
+source code and incorporates it, in whole or in part, into  
+another work that is licensed under a copyleft license, such
+as the GNU General Public License (GPL), the sublicense of  
+the source code shall be considered a material breach of    
+this license. The Copyright Holder shall have the right to  
+terminate the sublicense and take any other legal action    
+available to them against any parties involved in the       
+breach.                                                     
+                                                            
+8. If any provision of this license is held to be           
+unenforceable, the parties agree that such provision shall  
+be modified to the minimum extent necessary to make it      
+enforceable, and the remaining provisions of this license   
+shall remain in full force and effect. If any provision     
+cannot be modified to make it enforceable, such provision   
+shall be severed from this license, and the remaining       
+provisions shall continue to be valid and enforceable to the
+fullest extent permitted by law.                            
+                                                            
+9. If any amendment to this license is held to be           
+unenforceable, the parties agree that such amendment shall  
+be modified to the minimum extent necessary to make it      
+enforceable, and the amended license shall remain in full   
+force and effect. If any amendment cannot be modified to    
+make it enforceable, such amendment shall be severed from   
+this license, and the original license shall continue to be 
+valid and enforceable to the fullest extent permitted by    
+law.                                                        
+                                                            
+10. Any loss or claim, including but not limited to those   
+related to the Software's use, modification, distribution,  
+sublicensing, potential discrimination, compliance, or loss 
+to the public good, against the copyright holder or any     
+related parties is void to the maximum extent permitted by  
+applicable law. Such loss or claim shall not affect the     
+validity or enforceability of any other license provision.  
+                                                            
+11. All Parties using the Software under this license shall 
+not use the name of the Copyright Holder or any of its      
+affiliates, or any of their employees or representatives, in
+any advertising or promotional materials, or in any other   
+way suggest or imply any endorsement or sponsorship of the  
+Software or its use by the Copyright Holder or any of its   
+affiliates, without the prior written consent of the        
+Copyright Holder.                                           
+                                                            
+12. THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF   
+ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO  
+THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR 
+PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE        
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR       
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE  
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.      
+
+
+By using the Software, Licensee agrees to be bound by the   
+terms and conditions of this license. If Licensee does not  
+agree to the terms and conditions of this license, does not 
+understand them, or does not read them, Licensee may not use
+the Software.                                               
